@@ -12,6 +12,6 @@ Disciplinas:
  _____________________ 
  
 Branch:
- * main -> Top.Esp.SI.PDI
- * main -> Prog.P.Disp.Moveis
- * main -> Log.Prog
+ * main -> Top.Esp.SI.PDI #+ Python aplicado PDI
+ * main -> Prog.P.Disp.Moveis #+ Android usando Java
+ * main -> Log.Prog #+ código em C\C++
