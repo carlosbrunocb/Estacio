@@ -12,8 +12,6 @@ Disciplinas:
  _____________________ 
  
 Branch:
-             --- Top.Esp.SI.PDI
-           /
- main +++| --- Prog.P.Disp.Moveis
-           \
-             --- Log.Prog
+ main -> Top.Esp.SI.PDI
+ main -> Prog.P.Disp.Moveis
+ main -> Log.Prog
