@@ -12,7 +12,7 @@ Disciplinas:
  _____________________ 
  
 Branch:
-         |
+         |\n
  main +++|
          |
   
