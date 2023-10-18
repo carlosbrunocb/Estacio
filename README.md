@@ -1,6 +1,7 @@
-# estacio
+# Estácio
 Projeto de código de trabalhos acadêmicos (aulas e estudos)
-------------------------
+----------------------
+![1691755250545](https://github.com/carlosbrunocb/estacio/assets/54155580/a61541a8-d5af-48a3-951f-63131dff2291)
 
 Este repositório destina-se a armazenar exemplos de código de aulas das disciplinas programação.
 
@@ -11,7 +12,7 @@ Disciplinas:
   * Programação I (Engenharias): programação em C/C++ (Paradigma estruturado);
  _____________________ 
  
-Branch:
- * main -> Top.Esp.SI.PDI #+ Python aplicado PDI
- * main -> Prog.P.Disp.Moveis #+ Android usando Java
- * main -> Log.Prog #+ código em C\C++
+# Branch:
+ * `Top.Esp.SI.PDI`: Python aplicado PDI
+ * `Prog.P.Disp.Moveis`: Android usando Java
+ * `Log.Prog`: Código em C\C++
